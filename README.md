@@ -1,4 +1,4 @@
-# 🚀 Project AIM — Advanced Industry Maintenance
+# Project AIM — Advanced Industry Maintenance
 
 **AIM (Advanced Industry Maintenance)** is a secure, web-based digital document and data management solution engineered to streamline information flow across organizational tiers while maintaining strict, hierarchical data privacy.
 
